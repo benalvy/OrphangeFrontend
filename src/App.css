@@ -1,0 +1,12 @@
+.home
+{
+  height: 100vh;
+  background-image: url(./assets/bjarstin-rose-9917575_1920.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.box
+{
+  box-shadow:0 0 100px 1px rgba(39, 75, 206, 0.8);
+}
